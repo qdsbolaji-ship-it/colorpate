@@ -1,0 +1,6 @@
+python-telegram-bot==20.6
+Pillow==10.1.0
+colorthief==0.2.1
+python-dotenv==1.0.0
+requests==2.31.0
+webcolors==1.13
